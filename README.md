@@ -20,4 +20,4 @@ test.csv - testing data
 
 # Prediction results
 
-Current model had accuracy of 76%  on unseen validation set in this binary classification problem, which ranked 424 out of total 6613 contestants as of now [3] (top 7%)
+Current model had accuracy of 76%  on unseen validation set in this binary classification problem.
